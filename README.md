@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Taimoor Rehman</h1>
 
 <p align="center">
-  Frontend Developer based in Pakistan &nbsp;|&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Flutter
+  Full Stack Developer based in Pakistan &nbsp;|&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Flutter
 </p>
 
 <p align="center">
@@ -16,23 +16,26 @@
 
 ### About Me
 
-I build real-world web and mobile applications with a focus on clean UI and solid architecture. My main stack is React and Next.js on the frontend, Node.js and Express on the backend, and Flutter for cross-platform mobile. I have shipped projects in healthcare, tourism, music, and document management.
+Full Stack Developer with hands-on experience building end-to-end web and mobile applications. I work across the entire stack — React and Next.js on the frontend, Node.js and Express on the backend, and PostgreSQL or MongoDB for data. I have shipped projects in healthcare, real estate, music, and document management.
 
 ---
 
 ### Tech Stack
 
 **Frontend**
-`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `Framer Motion` `Radix UI`
+`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `Framer Motion` `Radix UI` `shadcn/ui`
+
+**Backend**
+`Node.js` `Express.js` `REST APIs` `Zod`
+
+**Database**
+`PostgreSQL (Neon)` `MongoDB` `Mongoose` `Drizzle ORM`
 
 **Mobile**
 `Flutter` `Dart`
 
-**Backend & Database**
-`Node.js` `Express.js` `MongoDB` `PostgreSQL (Neon)` `Mongoose` `REST APIs`
-
-**Tools**
-`Git` `GitHub` `Vercel` `VS Code`
+**Tools & Platforms**
+`Git` `GitHub` `Vercel` `VS Code` `Replit`
 
 ---
 
@@ -40,12 +43,12 @@ I build real-world web and mobile applications with a focus on clean UI and soli
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [MindReality](https://github.com/taimor123/MindReality) | VR therapy platform for licensed clinicians with provider-focused medical UI | React 18, TypeScript, Express.js |
-| [CoupleConnect](https://github.com/taimor123/CoupleConnect) | Full-stack relationship companion app | Next.js, TypeScript, NeonDB |
-| [wavedoc](https://github.com/taimor123/wavedoc) | Document management platform with Word file processing | Next.js, TypeScript, Mammoth.js |
-| [mstrymessage](https://github.com/taimor123/mstrymessage) | Anonymous messaging platform | Next.js, MongoDB, Zod |
+| [MindReality](https://github.com/taimor123/MindReality) | VR therapy platform for licensed clinicians — full frontend + Express backend | React 18, TypeScript, Express.js, PostgreSQL |
+| [CoupleConnect](https://github.com/taimor123/CoupleConnect) | Full-stack relationship companion app with real-time features | Next.js, TypeScript, NeonDB, Radix UI |
+| [wavedoc](https://github.com/taimor123/wavedoc) | Document management platform with Word file processing | Next.js, TypeScript, Mammoth.js, PostgreSQL |
+| [mstrymessage](https://github.com/taimor123/mstrymessage) | Anonymous messaging platform with auth and validation | Next.js, MongoDB, Mongoose, Zod |
 | [houseof-andalus](https://github.com/taimor123/houseof-andalus) | Tourism and travel platform — Tourm | Next.js 15, JavaScript |
-| [mymusicapp](https://github.com/taimor123/mymusicapp) | Music streaming and discovery app | Next.js, Framer Motion |
+| [mymusicapp](https://github.com/taimor123/mymusicapp) | Music streaming and discovery app | Next.js, Framer Motion, TypeScript |
 
 ---
 
@@ -60,5 +63,5 @@ I build real-world web and mobile applications with a focus on clean UI and soli
 ---
 
 <p align="center">
-  📍 Pakistan &nbsp;·&nbsp; 📫 taimoorrehman786@gmail.com
+  📍 Pakistan &nbsp;·&nbsp; 📫 taimoorrehman786@gmail.com &nbsp;·&nbsp; Open to Full Stack roles
 </p>
